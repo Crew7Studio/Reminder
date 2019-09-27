@@ -1,5 +1,7 @@
 # Reminder
 
+INCOMPLETE
+
 project is done in java in netbeans ide using java swing.
 
 sqlite database is used and the database for this app is inside the ReminderApp/here name = "test.sqlite"
