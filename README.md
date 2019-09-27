@@ -1,6 +1,7 @@
 # Reminder
 
 INCOMPLETE
+Bug - not showing reminder notification
 
 project is done in java in netbeans ide using java swing.
 
